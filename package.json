@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "a boilerplate template for serving an angular application through express",
   "main": "index.js",
+  "engine": {
+    "node":"0.10.26"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
