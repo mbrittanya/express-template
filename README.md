@@ -8,10 +8,5 @@
 
 ###Your app will be on http://localhost:5000
 
-##To deploy to heroku:
-####Make sure you have the heroku CLI
-
-- ```heroku create```
-- ```git push heroku master```
-
-###Shazam.
+##HEROKU DEPLOYMENT
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)

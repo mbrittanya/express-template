@@ -1,0 +1,7 @@
+{
+  "name": "Express Template",
+  "description": "A boilerplate template for serving an angular application through express",
+  "repository": "https://github.com/dantreasure/express-template",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static", "angular"]
+}
